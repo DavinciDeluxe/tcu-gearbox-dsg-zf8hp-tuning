@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Automated TCU Automatic Gearbox & Dual-Clutch Calibration — VAG DSG (DQ200/DQ250/DQ381/DQ500/DL501), ZF 6HP/8HP, 9G-Tronic, PDK & 24V I-Shift (v1.0.44)"
+title: "tcu-gearbox-dsg-zf8hp-tuning — DaVinci Deluxe Cloud Edition (v1.0.44)"
 version: "1.0.44"
 date-released: "2026-11-06"
 url: "https://www.davincideluxe.fr/online-ecu-tuning"
