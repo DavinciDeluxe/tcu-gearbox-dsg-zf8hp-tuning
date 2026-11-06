@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "tcu-gearbox-dsg-zf8hp-tuning — DaVinci Deluxe Cloud Edition (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/online-ecu-tuning"
+repository-code: "https://github.com/DavinciDeluxe/tcu-gearbox-dsg-zf8hp-tuning"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
